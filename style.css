@@ -1,0 +1,127 @@
+.badan-utama {
+  margin: 0;
+  background-color: rgb(255, 255, 255);
+  padding: 0;
+}
+
+header {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9cKdP9v9ywPBtsG00YRtyeB3NTemVk5OWVA&usqp=CAU);
+  color: white;
+  padding: 30px;
+}
+
+header h2 {
+  margin-bottom: 7px;
+  font-size: 25px;
+  text-align: center;
+}
+.navigasi ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: auto;
+  overflow: hidden;
+  background-color: rgb(30, 161, 236);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+  font-weight: bold;
+}
+.navigasi ul h2 {
+  font-size: 15px;
+  color: rgb(241, 250, 241);
+  text-align: center;
+  width: 200px;
+  float: left;
+}
+.navigasi li {
+  float: right;
+}
+.navigasi li a {
+  display: block;
+  color: white;
+  text-align: center;
+  line-height: 30px;
+  padding: 5px;
+  width: 80px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+.navigasi li a:hover {
+  background-color: rgb(109, 103, 103);
+  transition-duration: 1s;
+}
+.heading h2 {
+  text-align: center;
+  height: 50px;
+  line-height: 50px;
+  background-color: rgb(22, 186, 236);
+}
+.lesson-wrapper {
+  width: auto;
+  height: 780px;
+  padding-top: 20px;
+}
+.wrapper {
+  width: auto;
+  height: 550px;
+  background-image: url(https://sahabatnesia.com/wp-content/uploads/2016/09/philosophy_1.jpg);
+  padding-top: 20px;
+}
+.awal h2 {
+  text-align: center;
+  font-family: "Times New Roman";
+  font-size: 25px;
+  color: rgb(255, 255, 255);
+}
+.awal p {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+}
+.klik a {
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 10px;
+  width: 100px;
+  border-radius: 20px;
+  text-decoration: none;
+  background-color: rgb(3, 3, 3);
+}
+.klik a:hover {
+  background-color: rgb(133, 122, 122);
+  transition-duration: 1s;
+}
+.lesson {
+  float: left;
+  width: 25%;
+}
+
+.lesson-icon {
+  position: relative;
+}
+
+.lesson-icon p {
+  position: absolute;
+  top: 90px;
+  width: 100%;
+}
+footer {
+  clear: both;
+  background-color: rgb(20, 190, 220);
+  color: white;
+  padding: 5px;
+  text-align: center;
+  font-size: 12px;
+}
+.akhir {
+  width: auto;
+  height: 100px;
+  background-color: rgb(219, 212, 212);
+  padding-top: 20px;
+}
+.kontak p {
+  text-align: center;
+  font-size: 15px;
+}
